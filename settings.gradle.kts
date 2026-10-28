@@ -24,4 +24,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "playlist-maker-android-VoroninArtem"
 include(":app")
- 
+
+
+// test
